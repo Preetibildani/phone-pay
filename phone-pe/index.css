@@ -1,0 +1,57 @@
+body{
+    width: 26%;
+    
+    margin: auto;
+    border: 1px solid white;
+}
+#navbar{
+    height: 60px;
+    background-color:#5b369a;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+#body{
+    height: 500px;
+    background-color: rgb(233, 216, 233);
+}
+#bottom{
+    /* margin: auto; */
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+#inp{
+    border: none;
+    width: 70%;
+    outline: none;
+}
+#send{
+    border-radius: 50%;
+    height: 100%;
+}
+#pay{
+    width: 25%;
+}
+#add{
+    height: 60%;
+  margin-bottom: 7px;
+}
+.test:after {
+    content: '\2807';
+    font-size: 30px;
+}
+#hi{
+    border-radius: 50%;
+    height: 80%;
+}
+h2{
+  margin-top: 10px;
+}
+#img_ins{
+    width: 100%;
+}
+#print{
+    text-align: center;
+}
